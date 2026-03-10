@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vivi👋
 
-<!--
-**VV-WIN/VV-WIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer focused on building practical systems that solve real-world problems.
 
-Here are some ideas to get you started:
+I’ve worked on software across multiple sectors, including education, agriculture, environmental science, and law enforcement. I've been building tools ranging from biometric identity systems to groundwater compliance applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## What I work on
+
+* Full-stack web applications
+* Identity and biometric systems
+* Data-driven tools for environmental and agricultural workflows
+* Developer infrastructure and scalable services
+
+I enjoy building software that simplifies complex workflows and improves real-world outcomes.
+---
+
+## Current Focus
+
+* Completing my **Computer Science degree**
+* Expanding my knowledge of **algorithms, distributed systems, and software architecture**
+* Contributing to and building **open-source tools**
+
+---
+
+## A little about me
+
+In 2023 I completed a **3,500-mile self-supported bike tour across the United States with my husky**.
+
+That experience taught me resilience, planning, and how to break down large challenges into manageable steps—skills I bring into my engineering work every day.
